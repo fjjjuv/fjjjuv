@@ -1,85 +1,54 @@
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Bonjour, je suis [Ton Prénom] !
+# ![Header](https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=300&section=header&text=Julien%20|%20Développeur%20Full%20Stack&fontSize=70&animation=fadeIn)
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D007ACC%26height%3D200%26section%3Dheader%26text%3DD%C3%A9veloppeur%2520Full%2520Stack%2520🚀&fontSize=50&animation=fadeIn" alt="Bannière de profil" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00DBDE&center=true&vCenter=true&width=435&lines=Passionné+par+le+code;Créateur+de+solutions+Web;Apprentissage+continu+🚀" alt="Typing SVG" />
+  </a>
+</p>
+
+## 👤 À Propos de moi
+Salut ! Moi c'est **Julien** (alias **fjjjuv**). 
+Je transforme des idées en applications concrètes. Mon objectif est de construire un profil GitHub "Pro" solide pour montrer mon évolution technique et mes projets.
+
+- 🔭 Je travaille actuellement sur l'amélioration de mes compétences Full Stack.
+- 🌱 J'apprends chaque jour de nouvelles technologies.
+- ⚡ "Le code propre est la clé de la réussite."
+
+---
+
+## 🚀 Compétences Techniques
+### 💻 Langages & Frontend
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### ⚙️ Backend & Outils
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 Mes Statistiques GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fjjjuv&show_icons=true&theme=tokyonight" alt="Stats de fjjjuv" />
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D24%26pause%3D1000%26color%3D007ACC%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DPassionn%C3%A9%2Bpar%2Bl%27innovation%3BCr%C3%A9ateur%2Bd%27outils%2Bmodernes%3BEn%2Bqu%C3%AAte%2Bd%27excellence%2Btechnique" alt="Typing Effect" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjjjuv&layout=compact&theme=tokyonight" alt="Top Langages de fjjjuv" />
 </p>
 
-🚀 Présentation Rapide
+---
 
-Je transforme des idées complexes en code simple et efficace. Mon approche est centrée sur l'utilisateur et la performance.
-
-🛠️ En ce moment : Je construis des applications web robustes.
-
-🎓 Formation : Apprentissage intensif des architectures modernes.
-
-🎯 Objectif 2024 : Maîtriser le déploiement CI/CD et le Cloud.
-
-💬 Contact : Toujours ouvert aux discussions techniques.
-
-🛠️ Ma Boîte à Outils (Tech Stack)
-
-<div align="center">
-<!-- Langages de programmation -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-3178C6%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
-
-
-
-
-
-<!-- Frameworks & Bibliothèques -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-06B6D4%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" />
-
-
-
-
-
-<!-- Outils de développement -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GIT-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Postman-FF6C37%3Fstyle%3Dfor-the-badge%26logo%3Dpostman%26logoColor%3Dwhite" />
-</div>
-
-📊 Statistiques de Contribution
-
+## 🐍 Ma Contribution Snake
 <p align="center">
-<img height="180" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DTON_PSEUDO_ICI%26show_icons%3Dtrue%26theme%3Ddark%26bg_color%3D0D1117%26title_color%3D007ACC%26icon_color%3D007ACC%26hide_border%3Dtrue" alt="Stats GitHub" />
-<img height="180" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DTON_PSEUDO_ICI%26layout%3Dcompact%26theme%3Ddark%26bg_color%3D0D1117%26title_color%3D007ACC%26hide_border%3Dtrue" alt="Langages les plus utilisés" />
+  <img src="https://raw.githubusercontent.com/fjjjuv/fjjjuv/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DTON_PSEUDO_ICI%26theme%3Ddark%26background%3D0D1117%26stroke%3D007ACC%26ring%3D007ACC%26fire%3D007ACC" alt="GitHub Streak" />
-</p>
-
-🐍 Snake Contribution Game
+---
 
 <p align="center">
-<!-- Note: Remplace TON_PSEUDO_ICI pour que le serpent mange tes propres contributions -->
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/mayer-michel/mayer-michel/output/github-contribution-grid-snake.svg" alt="Animation Serpent" />
-</p>
-
-📫 Me contacter
-
-<p align="center">
-<a href="mailto:tonemail@example.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
-</a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/tonprofil">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
-</a>
-</p>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/mayer-michel/mayer-michel/main/assets/coding.gif" width="400" alt="Développeur en train de coder" />
-</p>
-
-<p align="center">
-<i>"L'informatique n'est pas plus la science des ordinateurs que l'astronomie n'est celle des télescopes."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=100&section=footer" />
 </p>

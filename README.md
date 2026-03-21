@@ -100,7 +100,9 @@ Développeur Full Stack et explorateur tech, je combine rigueur académique (Bac
   
   [![Email](https://img.shields.io/badge/ProtonMail-fjjjuv%40proton.me-00D1FF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:fjjjuv@proton.me)
   [![GitHub](https://img.shields.io/badge/GitHub_Identity-fjjjuv-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fjjjuv)
-
+  <a href="https://fjjjuv.github.io/Mon-porte-folio/#profil" target="_blank">
+    <img src="https://img.shields.io/badge/Mon_Porte-folio-1e90ff?style=for-the-badge&logo=github&logoColor=white" alt="Mon Porte-folio GitHub">
+</a>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=100&section=footer" />
 </div>

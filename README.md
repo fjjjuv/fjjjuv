@@ -17,7 +17,7 @@
 ---
 
 ## 📖 À Propos de moi
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpobjZidmZ4bm9oZXN4Znd4bm9oZXN4Znd4bm9oZXN4Znd4bm9oZXN4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" />
+<img align="right" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" />
 
 Je suis **Julien**, un développeur passionné par le design moderne et le code propre. Mon objectif est de transformer des lignes de code en expériences utilisateur incroyables.
 
@@ -43,9 +43,10 @@ Je suis **Julien**, un développeur passionné par le design moderne et le code 
 
 ## 🏆 GitHub Trophies & Rewards
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fjjjuv&theme=tokyonight&no-bg=true&margin-w=15&column=4" alt="Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=fjjjuv&theme=tokyonight&no-bg=true&margin-w=15&column=3" alt="fjjjuv trophies" />
+  </a>
 </div>
-
 ---
 
 ## 📊 Performance & Statistiques

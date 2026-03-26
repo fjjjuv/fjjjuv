@@ -21,10 +21,6 @@
 
 ## 👤 Mon profil
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" />
-</p>
-
 > **Développeur Full Stack** et explorateur tech, je combine rigueur académique (**Bac-pro CIEL**) et curiosité autodidacte. Mon focus est mis sur la création d'expériences fluides et de solutions backend robustes.
 
 * **⚡ Méthode :** Recherche de solutions sécurisées et contributions quotidiennes.

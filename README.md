@@ -22,14 +22,15 @@
 ## 👤 Mon profil
 
 <p align="center">
-  <img width="500" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" />
 </p>
 
-Développeur Full Stack et explorateur tech, je combine rigueur académique (**Bac-pro CIEL**) et curiosité autodidacte. Mon focus est mis sur la création d'expériences fluides et de solutions backend robustes.
+> **Développeur Full Stack** et explorateur tech, je combine rigueur académique (**Bac-pro CIEL**) et curiosité autodidacte. Mon focus est mis sur la création d'expériences fluides et de solutions backend robustes.
 
 * **⚡ Méthode :** Recherche de solutions sécurisées et contributions quotidiennes.
 * **🚀 Objectif :** Automatisation totale des workflows et optimisation UI/UX.
 * **🌱 Expérimentation :** IA (TensorFlow/PyTorch) et environnements hybrides.
+
 
 ---
 

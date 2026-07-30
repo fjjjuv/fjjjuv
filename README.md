@@ -74,13 +74,13 @@
 
 ## 📊 PERFORMANCE
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=fjjjuv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" height="180em" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fjjjuv&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180em" />
-</div>
-<div align="center">
+  <div class="flex flex-wrap justify-center gap-4">
+    <img src="https://github-stats-extended.vercel.app/api?username=fjjjuv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" height="180em" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fjjjuv&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180em" />
+  </div>
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fjjjuv&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
-
 ---
 
 ## 🐍 CONTRIBUTION_FLOW

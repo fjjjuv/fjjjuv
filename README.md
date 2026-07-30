@@ -56,6 +56,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Windsurf-4B0082?style=for-the-badge&logo=windsurf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Devin-ai-4B0082?style=for-the-badge&logo=Devin-ai&logoColor=white" />
   <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white" />
@@ -74,10 +75,9 @@
 
 ## 📊 PERFORMANCE
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fjjjuv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjjjuv&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180em" />
+  <img src="https://github-stats-extended.vercel.app/api?username=fjjjuv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" height="180em" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fjjjuv&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180em" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fjjjuv&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>

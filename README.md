@@ -53,16 +53,15 @@
 </div>
 
 ### 💻 Environments & Tools
-<div align="left">
+<div class="flex flex-wrap gap-3 justify-center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Windsurf-4B0082?style=for-the-badge&logo=windsurf&logoColor=white" />
-  <img src="https://img.shields.io/badge/Devin-ai-4B0082?style=for-the-badge&logo=Devin-ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Devin_AI-4B0082?style=for-the-badge&logo=devin&logoColor=white" />
   <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white" />
   <img src="https://img.shields.io/badge/Cordova-E8E8E8?style=for-the-badge&logo=apache-cordova&logoColor=black" />
 </div>
-
 ---
 
 ## ⚡ EXPERIMENT

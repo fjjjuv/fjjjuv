@@ -1,20 +1,23 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=50&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&height=100&lines=JULIEN+(fjjjuv)" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=50&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&height=100&lines=JULIEN+(fjjjuv)" alt="Name" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1500&color=A9AFC1&center=true&vCenter=true&width=800&height=50&lines=⚡+Full+Stack+Developer+|+CIEL+Student+|+Tech+Explorer;📍+Lycée+Bac-pro+CIEL+·+France+🇫🇷" alt="Titres" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1500&color=A9AFC1&center=true&vCenter=true&width=800&height=50&lines=⚡+Full+Stack+Developer+|+CIEL+Student+|+Tech+Explorer;📍+Lycée+Bac-pro+CIEL+·+France+🇫🇷" alt="Titres" />
 
   <br />
 
-<a href="https://github.com/fjjjuv?tab=followers">
-    <img src="https://img.shields.io/badge/FOLLOWERS-2-00D1FF?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+  <a href="https://github.com/fjjjuv?tab=followers">
+    <img src="https://img.shields.io/github/followers/fjjjuv?style=for-the-badge&color=00D1FF&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers" />
   </a>
   <a href="https://github.com/fjjjuv?tab=following">
-    <img src="https://img.shields.io/badge/FOLLOWING-5-white?style=for-the-badge&logo=github&logoColor=00D1FF" alt="Following" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffjjjuv&query=%24.following&style=for-the-badge&color=white&label=FOLLOWING&logo=github&logoColor=00D1FF" alt="Following" />
   </a>
-  
+  <a href="https://github.com/fjjjuv">
+    <img src="https://komarev.com/ghpvc/?username=fjjjuv&style=for-the-badge&color=00D1FF&label=PROFILE+VIEWS" alt="Profile views" />
+  </a>
+
   ---
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Code+propre%2C+structur%C3%A9+et+maintenable;Design+moderne+et+UX+privil%C3%A9gi%C3%A9e;Apprentissage+autodidacte+permanent;Optimisation+et+automatisation;Passion+pour+l'Open+Source)
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Code+propre%2C+structur%C3%A9+et+maintenable;Design+moderne+et+UX+privil%C3%A9gi%C3%A9e;Apprentissage+autodidacte+permanent;Optimisation+et+automatisation;Passion+pour+l'Open+Source)
 
   ---
 </div>
@@ -27,10 +30,42 @@
 * **🚀 Objectif :** Automatisation totale des workflows et optimisation UI/UX.
 * **🌱 Expérimentation :** IA (TensorFlow/PyTorch) et environnements hybrides.
 
+---
+
+## 🚀 Projet phare : prompt-flamegraph
+
+> Profile tes prompts LLM : flamegraph interactif des tokens, détection de gaspillage, diff entre versions, budget CI. Zéro dépendance, 100% local.
+
+<p>
+  <a href="https://pypi.org/project/prompt-flamegraph/">
+    <img src="https://img.shields.io/pypi/v/prompt-flamegraph?style=for-the-badge&logo=pypi&logoColor=white&color=00D1FF" alt="PyPI version" />
+  </a>
+  <a href="https://pypi.org/project/prompt-flamegraph/">
+    <img src="https://img.shields.io/pypi/dm/prompt-flamegraph?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI downloads" />
+  </a>
+  <a href="https://pypi.org/project/prompt-flamegraph/">
+    <img src="https://img.shields.io/pypi/pyversions/prompt-flamegraph?style=for-the-badge&logo=python&logoColor=white" alt="Python versions" />
+  </a>
+  <a href="https://github.com/fjjjuv/prompt-flamegraph/blob/main/LICENSE">
+    <img src="https://img.shields.io/pypi/l/prompt-flamegraph?style=for-the-badge" alt="License" />
+  </a>
+</p>
+
+<div align="center">
+  <a href="https://github.com/fjjjuv/prompt-flamegraph">
+    <img width="420" src="https://github-stats-extended.vercel.app/api/pin/?username=fjjjuv&repo=prompt-flamegraph&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2" alt="prompt-flamegraph repo card" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/fjjjuv/prompt-flamegraph">GitHub</a> ·
+  <a href="https://pypi.org/project/prompt-flamegraph/">PyPI</a> ·
+  <a href="https://fjjjuv.github.io/prompt-flamegraph/index.html">Documentation</a>
+</p>
 
 ---
 
-## 🛠️ TECH_STACK & ECOSYTEM
+## 🛠️ TECH_STACK & ECOSYSTEM
 
 ### 🌐 Frontend & Core Languages
 <div align="left">
@@ -44,7 +79,7 @@
 
 ### 🏗️ Backend & Infrastructure
 <div align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -53,15 +88,16 @@
 </div>
 
 ### 💻 Environments & Tools
-<div class="flex flex-wrap gap-3 justify-center">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<div align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Windsurf-4B0082?style=for-the-badge&logo=windsurf&logoColor=white" />
-  <img src="https://img.shields.io/badge/Devin_AI-4B0082?style=for-the-badge&logo=devin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Devin_AI-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cordova-E8E8E8?style=for-the-badge&logo=apache-cordova&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cordova-E8E8E8?style=for-the-badge&logo=apachecordova&logoColor=black" />
 </div>
+
 ---
 
 ## ⚡ EXPERIMENT
@@ -74,13 +110,12 @@
 
 ## 📊 PERFORMANCE
 <div align="center">
-  <div class="flex flex-wrap justify-center gap-4">
-    <img src="https://github-stats-extended.vercel.app/api?username=fjjjuv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" height="180em" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fjjjuv&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180em" />
-  </div>
+  <img src="https://github-stats-extended.vercel.app/api?username=fjjjuv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" height="180em" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fjjjuv&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180em" alt="Top languages" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fjjjuv&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=fjjjuv&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
+
 ---
 
 ## 🐍 CONTRIBUTION_FLOW
@@ -96,12 +131,13 @@
 
 ## 🔗 SECURE_COMMUNICATION
 <div align="center">
-  
+
   [![Email](https://img.shields.io/badge/ProtonMail-fjjjuv%40proton.me-00D1FF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:fjjjuv@proton.me)
   [![GitHub](https://img.shields.io/badge/GitHub_Identity-fjjjuv-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fjjjuv)
+  [![DEV.to](https://img.shields.io/badge/DEV.to-fjjjuv-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/fjjjuv)
   <a href="https://fjjjuv.github.io/Mon-porte-folio/#profil" target="_blank">
     <img src="https://img.shields.io/badge/Mon_Porte-folio-1e90ff?style=for-the-badge&logo=github&logoColor=white" alt="Mon Porte-folio GitHub">
-</a>
+  </a>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=100&section=footer" />
 </div>

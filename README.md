@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=50&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&height=100&lines=JULIEN+(fjjjuv)" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=50&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&height=100&lines=JULIEN%20%28fjjjuv)" alt="Name" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1500&color=A9AFC1&center=true&vCenter=true&width=800&height=50&lines=⚡+Full+Stack+Developer+|+CIEL+Student+|+Tech+Explorer;📍+Lycée+Bac-pro+CIEL+·+France+🇫🇷" alt="Titres" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&pause=1500&color=A9AFC1&center=true&vCenter=true&width=800&height=50&lines=%E2%9A%A1%20Full%20Stack%20Developer%20%7C%20CIEL%20Student%20%7C%20Tech%20Explorer;%F0%9F%93%8D%20Lyc%C3%A9e%20Bac-pro%20CIEL%20%C2%B7%20France%20%F0%9F%87%AB%F0%9F%87%B7" alt="Titres" />
 
   <br />
 
@@ -17,7 +17,7 @@
 
   ---
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Code+propre%2C+structur%C3%A9+et+maintenable;Design+moderne+et+UX+privil%C3%A9gi%C3%A9e;Apprentissage+autodidacte+permanent;Optimisation+et+automatisation;Passion+pour+l'Open+Source)
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira%20Code&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Code%20propre%2C%20structur%C3%A9%20et%20maintenable;Design%20moderne%20et%20UX%20privil%C3%A9gi%C3%A9e;Apprentissage%20autodidacte%20permanent;Optimisation%20et%20automatisation;Passion%20pour%20l%27Open%20Source)
 
   ---
 </div>

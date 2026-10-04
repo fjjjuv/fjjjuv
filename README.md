@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffjjjuv&query=%24.following&style=for-the-badge&color=white&label=FOLLOWING&logo=github&logoColor=00D1FF" alt="Following" />
   </a>
   <a href="https://github.com/fjjjuv">
-  <img src="https://komarev.com/ghpvc/?username=fjjjuv&style=for-the-badge&color=00D1FF&label=VIEWS" alt="Views" />
+  <img src="https://profile-counter.glitch.me/fjjjuv/count.svg" alt="Views" />
 </a>
 </div>
 

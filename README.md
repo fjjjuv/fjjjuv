@@ -12,8 +12,8 @@
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffjjjuv&query=%24.following&style=for-the-badge&color=white&label=FOLLOWING&logo=github&logoColor=00D1FF" alt="Following" />
   </a>
   <a href="https://github.com/fjjjuv">
-    <img src="https://hits.seeyoufarm.org/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffjjjuv&count_bg=%2300D1FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VIEWS&edge_flat=false" alt="Views" />
-  </a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffjjjuv&query=%24.followers&style=for-the-badge&color=00D1FF&label=VIEWS&logo=github&logoColor=white" alt="Views" />
+</a>
 </div>
 
 ---

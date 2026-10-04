@@ -10,11 +10,9 @@
   </a>
   <a href="https://github.com/fjjjuv?tab=following">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffjjjuv&query=%24.following&style=for-the-badge&color=white&label=FOLLOWING&logo=github&logoColor=00D1FF" alt="Following" />
-  </a>
-  <a href="https://github.com/fjjjuv">
-    <img src="https://komarev.com/ghpvc/?username=fjjjuv&style=for-the-badge&color=00D1FF&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
-
+<a href="https://github.com/fjjjuv">
+  <img src="https://hits.seeyoufarm.org/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffjjjuv&count_bg=%2300D1FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VIEWS&edge_flat=false" alt="Views" />
+</a>
   ---
 
   ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira%20Code&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Code%20propre%2C%20structur%C3%A9%20et%20maintenable;Design%20moderne%20et%20UX%20privil%C3%A9gi%C3%A9e;Apprentissage%20autodidacte%20permanent;Optimisation%20et%20automatisation;Passion%20pour%20l%27Open%20Source)

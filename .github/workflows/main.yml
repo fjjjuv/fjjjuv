@@ -40,6 +40,10 @@ jobs:
           git checkout -B output origin/output
           git rm -rf .
           cp -R /tmp/profile-snake/. .
+          if git diff --quiet -- . && [ -z "$(git status --short)" ]; then
+            echo "Contribution snake is already current."
+            exit 0
+          fi
           git add .
           git commit -m "chore: refresh contribution snake"
           git push origin output

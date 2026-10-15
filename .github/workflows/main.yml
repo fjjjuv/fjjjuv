@@ -1,9 +1,9 @@
 name: generate animation
 
 on:
-  # L'animation se met à jour toutes les 24h
+  # L'animation se met à jour toutes les heures
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 * * * *"
   
   # Permet de lancer l'animation manuellement
   workflow_dispatch:

@@ -17,8 +17,8 @@ jobs:
 
       - name: Refresh image cache keys
         run: |
-          today="$(date -u +%Y%m%d)"
-          sed -E -i "s/v=[0-9]{8}/v=${today}/g" README.md
+          cache_key="$(date -u +%Y%m%d%H)"
+          sed -E -i "s/v=[0-9]{8,10}/v=${cache_key}/g" README.md
 
       - name: Commit refreshed image URLs
         run: |

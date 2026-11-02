@@ -66,7 +66,13 @@
 
 ---
 
-## 🛠️ TECH_STACK & ECOSYSTEM
+## �️ Contribution open source — BeeWare Briefcase
+
+> Correctif mergé dans [BeeWare Briefcase](https://github.com/beeware/briefcase) (détection de Visual Studio sous Windows) et signalement d'une vulnérabilité de path traversal — crédité comme rapporteur sur l'advisory [GHSA-j2qc-j92x-qqhj](https://github.com/beeware/briefcase/security/advisories/GHSA-j2qc-j92x-qqhj) (sévérité haute).
+
+---
+
+## �🛠️ TECH_STACK & ECOSYSTEM
 
 ### 🌐 Frontend & Core Languages
 <div align="left">

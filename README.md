@@ -68,7 +68,7 @@
 
 ## 🔐 Failles de sécurité signalées
 
-* **[BeeWare Briefcase](https://github.com/beeware/briefcase)** — vulnérabilité *path traversal* dans  (nom de fichier de cache mal construit → écriture de fichier arbitraire sous Windows) — crédité **rapporteur** : [GHSA-j2qc-j92x-qqhj](https://github.com/beeware/briefcase/security/advisories/GHSA-j2qc-j92x-qqhj) · sévérité **haute** · CVE en cours d'attribution
+* **[BeeWare Briefcase](https://github.com/beeware/briefcase)** — vulnérabilité *path traversal* dans `File.download()` (nom de fichier de cache mal construit → écriture de fichier arbitraire sous Windows) — crédité **rapporteur** : [GHSA-j2qc-j92x-qqhj](https://github.com/beeware/briefcase/security/advisories/GHSA-j2qc-j92x-qqhj) · sévérité **haute** · CVE en cours d'attribution
   * contribution également mergée en amont : [PR #3090](https://github.com/beeware/briefcase/pull/3090) (détection Visual Studio sous Windows)
 
 ---

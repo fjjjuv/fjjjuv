@@ -1,3 +1,5 @@
+<p align="right"><a href="README.md">🇬🇧 English</a> · <a href="README.fr.md">🇫🇷 Français</a></p>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=50&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&height=100&lines=JULIEN%20%28fjjjuv%29&v=2026110218" alt="Name" />
 
@@ -18,24 +20,24 @@
 
 ---
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira%20Code&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Code%20propre%2C%20structur%C3%A9%20et%20maintenable;Design%20moderne%20et%20UX%20privil%C3%A9gi%C3%A9e;Apprentissage%20autodidacte%20permanent;Optimisation%20et%20automatisation;Passion%20pour%20l%27Open%20Source&v=2026110218)
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira%20Code&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Clean%2C%20structured%20and%20maintainable%20code;Modern%20design%20with%20UX%20first;Continuous%20self-taught%20learning;Optimization%20and%20automation;Passion%20for%20Open%20Source&v=2026110218)
 
   ---
 </div>
 
-## 👤 Mon profil
+## 👤 About me
 
-> **Développeur Full Stack** et explorateur tech, je combine rigueur académique (**Bac-pro CIEL**) et curiosité autodidacte. Mon focus est mis sur la création d'expériences fluides et de solutions backend robustes.
+> **Full Stack developer** and tech explorer, combining academic rigor (**Bac-pro CIEL**, French IT & electronics diploma) with self-taught curiosity. Focused on smooth user experiences and robust backend solutions.
 
-* **⚡ Méthode :** Recherche de solutions sécurisées et contributions quotidiennes.
-* **🚀 Objectif :** Automatisation totale des workflows et optimisation UI/UX.
-* **🌱 Expérimentation :** IA (TensorFlow/PyTorch) et environnements hybrides.
+* **⚡ Method:** Secure-by-design solutions and daily contributions.
+* **🚀 Goal:** Full workflow automation and UI/UX optimization.
+* **🌱 Experimenting:** AI (TensorFlow/PyTorch) and hybrid environments.
 
 ---
 
-## 🚀 Projet phare : prompt-flamegraph
+## 🚀 Featured project: prompt-flamegraph
 
-> Profile tes prompts LLM : flamegraph interactif des tokens, détection de gaspillage, diff entre versions, budget CI. Zéro dépendance, 100% local.
+> Profile your LLM prompts: interactive token flamegraph, waste detection, version diffs, CI budget. Zero dependencies, 100% local.
 
 <p>
   <a href="https://pypi.org/project/prompt-flamegraph/">
@@ -66,10 +68,10 @@
 
 ---
 
-## 🔐 Failles de sécurité signalées
+## 🔐 Reported security vulnerabilities
 
-* **[BeeWare Briefcase](https://github.com/beeware/briefcase)** — vulnérabilité *path traversal* dans `File.download()` (nom de fichier de cache mal construit → écriture de fichier arbitraire sous Windows) — crédité **rapporteur** : [GHSA-j2qc-j92x-qqhj](https://github.com/beeware/briefcase/security/advisories/GHSA-j2qc-j92x-qqhj) · sévérité **haute** · CVE en cours d'attribution
-  * contribution également mergée en amont : [PR #3090](https://github.com/beeware/briefcase/pull/3090) (détection Visual Studio sous Windows)
+* **[BeeWare Briefcase](https://github.com/beeware/briefcase)** — *path traversal* vulnerability in `File.download()` (improperly constructed cache filename → arbitrary file write on Windows) — credited **reporter** : [GHSA-j2qc-j92x-qqhj](https://github.com/beeware/briefcase/security/advisories/GHSA-j2qc-j92x-qqhj) · **high** severity · CVE pending
+  * also merged upstream: [PR #3090](https://github.com/beeware/briefcase/pull/3090) (Visual Studio detection on Windows)
 
 ---
 
@@ -109,10 +111,10 @@
 ---
 
 ## ⚡ EXPERIMENT
-* **Mobile Architecture :** Développement Cordova avec gestion de superposition et prévention de veille.
-* **Data Mapping :** Intégration cartographique dynamique avec Leaflet.
-* **Google Labs :** Expérimentations sur Antigravity.
-* **DevOps :** Workflows GitHub automatisés et scripts Shell/Python.
+* **Mobile Architecture:** Cordova development with overlay handling and wake-lock prevention.
+* **Data Mapping:** Dynamic map integration with Leaflet.
+* **Google Labs:** Antigravity experiments.
+* **DevOps:** Automated GitHub workflows and Shell/Python scripts.
 
 ---
 

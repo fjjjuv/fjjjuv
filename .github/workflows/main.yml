@@ -21,6 +21,9 @@ jobs:
     timeout-minutes: 5
     
     steps:
+      - name: Checkout profile
+        uses: actions/checkout@v4
+
       # Génère le serpent à partir de tes contributions
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3

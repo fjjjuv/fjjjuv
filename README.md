@@ -66,13 +66,14 @@
 
 ---
 
-## �️ Contribution open source — BeeWare Briefcase
+## 🔐 Failles de sécurité signalées
 
-> Correctif mergé dans [BeeWare Briefcase](https://github.com/beeware/briefcase) (détection de Visual Studio sous Windows) et signalement d'une vulnérabilité de path traversal — crédité comme rapporteur sur l'advisory [GHSA-j2qc-j92x-qqhj](https://github.com/beeware/briefcase/security/advisories/GHSA-j2qc-j92x-qqhj) (sévérité haute).
+* **[BeeWare Briefcase](https://github.com/beeware/briefcase)** — vulnérabilité *path traversal* dans  (nom de fichier de cache mal construit → écriture de fichier arbitraire sous Windows) — crédité **rapporteur** : [GHSA-j2qc-j92x-qqhj](https://github.com/beeware/briefcase/security/advisories/GHSA-j2qc-j92x-qqhj) · sévérité **haute** · CVE en cours d'attribution
+  * contribution également mergée en amont : [PR #3090](https://github.com/beeware/briefcase/pull/3090) (détection Visual Studio sous Windows)
 
 ---
 
-## �🛠️ TECH_STACK & ECOSYSTEM
+## 🛠️ TECH_STACK & ECOSYSTEM
 
 ### 🌐 Frontend & Core Languages
 <div align="left">

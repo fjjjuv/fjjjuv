@@ -70,11 +70,30 @@
 
 ## 📐 Protocoles PDF pour agents IA
 
-> Trois specs ouvertes pour l'édition PDF par agents IA — v1.0, Apache-2.0 — implémentées par [pdfbadger](https://github.com/fjjjuv/pdfbadger).
+> Trois spécifications ouvertes pour l'édition PDF fiable par agents IA — v1.0 · Apache-2.0 — implémentées par [pdfbadger](https://github.com/fjjjuv/pdfbadger).
 
-* **[pdfsp](https://github.com/fjjjuv/pdfsp)** `PDF Scene Patch` — JSON Patch (RFC 6902) pour graphes de scène PDF · [docs](https://fjjjuv.github.io/pdfsp/)
-* **[pdfdtp](https://github.com/fjjjuv/pdfdtp)** `Document Transaction Protocol` — édition transactionnelle : certificats + journaux chaînés par hash · [docs](https://fjjjuv.github.io/pdfdtp/)
-* **[pdfad](https://github.com/fjjjuv/pdfad)** `PDF Agent Descriptor` — manifeste auto-descriptif embarqué dans le PDF · [docs](https://fjjjuv.github.io/pdfad/)
+<div align="center">
+  <a href="https://github.com/fjjjuv/pdfbadger">
+    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=fjjjuv&repo=pdfbadger&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2&v=20261123" alt="pdfbadger repo card" />
+  </a>
+  <a href="https://github.com/fjjjuv/pdfsp">
+    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=fjjjuv&repo=pdfsp&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2&v=20261123" alt="pdfsp repo card" />
+  </a>
+  <br />
+  <a href="https://github.com/fjjjuv/pdfdtp">
+    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=fjjjuv&repo=pdfdtp&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2&v=20261123" alt="pdfdtp repo card" />
+  </a>
+  <a href="https://github.com/fjjjuv/pdfad">
+    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=fjjjuv&repo=pdfad&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2&v=20261123" alt="pdfad repo card" />
+  </a>
+</div>
+
+<p align="center">
+  <b>Sites des specs :</b>
+  <a href="https://fjjjuv.github.io/pdfsp/">pdfsp</a> ·
+  <a href="https://fjjjuv.github.io/pdfdtp/">pdfdtp</a> ·
+  <a href="https://fjjjuv.github.io/pdfad/">pdfad</a>
+</p>
 
 ---
 

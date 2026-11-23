@@ -70,11 +70,11 @@
 
 ## 📐 Protocoles PDF pour agents IA
 
-> Trois spécifications ouvertes — v1.0, Apache-2.0 — pour l'édition PDF fiable par les agents IA, implémentées par [pdfbadger](https://github.com/fjjjuv/pdfbadger).
+> Trois specs ouvertes pour l'édition PDF par agents IA — v1.0, Apache-2.0 — implémentées par [pdfbadger](https://github.com/fjjjuv/pdfbadger).
 
-* **[pdfsp](https://github.com/fjjjuv/pdfsp)** `PDF Scene Patch` — patches JSON portables et vérifiables du graphe de scène PDF, l'équivalent de JSON Patch (RFC 6902) · [docs](https://fjjjuv.github.io/pdfsp/)
-* **[pdfdtp](https://github.com/fjjjuv/pdfdtp)** `Document Transaction Protocol` — édition transactionnelle avec certificats et journaux de rollback chaînés par hash · [docs](https://fjjjuv.github.io/pdfdtp/)
-* **[pdfad](https://github.com/fjjjuv/pdfad)** `PDF Agent Descriptor` — manifeste auto-descriptif embarqué dans le PDF : index des éléments, design DNA, capacités · [docs](https://fjjjuv.github.io/pdfad/)
+* **[pdfsp](https://github.com/fjjjuv/pdfsp)** `PDF Scene Patch` — JSON Patch (RFC 6902) pour graphes de scène PDF · [docs](https://fjjjuv.github.io/pdfsp/)
+* **[pdfdtp](https://github.com/fjjjuv/pdfdtp)** `Document Transaction Protocol` — édition transactionnelle : certificats + journaux chaînés par hash · [docs](https://fjjjuv.github.io/pdfdtp/)
+* **[pdfad](https://github.com/fjjjuv/pdfad)** `PDF Agent Descriptor` — manifeste auto-descriptif embarqué dans le PDF · [docs](https://fjjjuv.github.io/pdfad/)
 
 ---
 

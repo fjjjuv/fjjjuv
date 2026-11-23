@@ -70,11 +70,11 @@
 
 ## 📐 PDF protocols for AI agents
 
-> Three open specifications — v1.0, Apache-2.0 — for reliable AI-driven PDF editing, implemented by [pdfbadger](https://github.com/fjjjuv/pdfbadger).
+> Three open specs for AI-driven PDF editing — v1.0, Apache-2.0 — implemented by [pdfbadger](https://github.com/fjjjuv/pdfbadger).
 
-* **[pdfsp](https://github.com/fjjjuv/pdfsp)** `PDF Scene Patch` — portable, verifiable JSON patches for PDF scene graphs, the JSON Patch (RFC 6902) of PDF · [docs](https://fjjjuv.github.io/pdfsp/)
-* **[pdfdtp](https://github.com/fjjjuv/pdfdtp)** `Document Transaction Protocol` — transactional editing with certificates and hash-chained rollback journals · [docs](https://fjjjuv.github.io/pdfdtp/)
-* **[pdfad](https://github.com/fjjjuv/pdfad)** `PDF Agent Descriptor` — self-describing manifest embedded in a PDF: element index, design DNA, capabilities · [docs](https://fjjjuv.github.io/pdfad/)
+* **[pdfsp](https://github.com/fjjjuv/pdfsp)** `PDF Scene Patch` — JSON Patch (RFC 6902) for PDF scene graphs · [docs](https://fjjjuv.github.io/pdfsp/)
+* **[pdfdtp](https://github.com/fjjjuv/pdfdtp)** `Document Transaction Protocol` — transactional PDF edits: certificates + hash-chained journals · [docs](https://fjjjuv.github.io/pdfdtp/)
+* **[pdfad](https://github.com/fjjjuv/pdfad)** `PDF Agent Descriptor` — self-describing manifest embedded in PDFs · [docs](https://fjjjuv.github.io/pdfad/)
 
 ---
 

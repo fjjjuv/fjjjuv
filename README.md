@@ -72,11 +72,9 @@
 
 > Three open specifications — v1.0, Apache-2.0 — for reliable AI-driven PDF editing, implemented by [pdfbadger](https://github.com/fjjjuv/pdfbadger).
 
-| Spec | Role | Docs |
-|---|---|---|
-| **[pdfsp](https://github.com/fjjjuv/pdfsp)** — PDF Scene Patch | Portable, verifiable JSON patches for PDF scene graphs — the JSON Patch (RFC 6902) of PDF | [site](https://fjjjuv.github.io/pdfsp/) |
-| **[pdfdtp](https://github.com/fjjjuv/pdfdtp)** — Document Transaction Protocol | Transactional editing: certificates proving minimal mutation + hash-chained rollback journals | [site](https://fjjjuv.github.io/pdfdtp/) |
-| **[pdfad](https://github.com/fjjjuv/pdfad)** — PDF Agent Descriptor | Self-describing manifest embedded in a PDF — element index, design DNA, engine capabilities | [site](https://fjjjuv.github.io/pdfad/) |
+* **[pdfsp](https://github.com/fjjjuv/pdfsp)** `PDF Scene Patch` — portable, verifiable JSON patches for PDF scene graphs, the JSON Patch (RFC 6902) of PDF · [docs](https://fjjjuv.github.io/pdfsp/)
+* **[pdfdtp](https://github.com/fjjjuv/pdfdtp)** `Document Transaction Protocol` — transactional editing with certificates and hash-chained rollback journals · [docs](https://fjjjuv.github.io/pdfdtp/)
+* **[pdfad](https://github.com/fjjjuv/pdfad)** `PDF Agent Descriptor` — self-describing manifest embedded in a PDF: element index, design DNA, capabilities · [docs](https://fjjjuv.github.io/pdfad/)
 
 ---
 

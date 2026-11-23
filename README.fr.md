@@ -68,6 +68,18 @@
 
 ---
 
+## 📐 Protocoles PDF pour agents IA
+
+> Trois spécifications ouvertes — v1.0, Apache-2.0 — pour l'édition PDF fiable par les agents IA, implémentées par [pdfbadger](https://github.com/fjjjuv/pdfbadger).
+
+| Spec | Rôle | Docs |
+|---|---|---|
+| **[pdfsp](https://github.com/fjjjuv/pdfsp)** — PDF Scene Patch | Patches JSON portables et vérifiables du graphe de scène PDF — l'équivalent de JSON Patch (RFC 6902) pour le PDF | [site](https://fjjjuv.github.io/pdfsp/) |
+| **[pdfdtp](https://github.com/fjjjuv/pdfdtp)** — Document Transaction Protocol | Édition transactionnelle : certificats prouvant la mutation minimale + journaux de rollback chaînés par hash | [site](https://fjjjuv.github.io/pdfdtp/) |
+| **[pdfad](https://github.com/fjjjuv/pdfad)** — PDF Agent Descriptor | Manifeste auto-descriptif embarqué dans le PDF — index des éléments, ADN design, capacités du moteur | [site](https://fjjjuv.github.io/pdfad/) |
+
+---
+
 ## 🔐 Failles de sécurité signalées
 
 * **[BeeWare Briefcase](https://github.com/beeware/briefcase)** — vulnérabilité *path traversal* dans `File.download()` (nom de fichier de cache mal construit → écriture de fichier arbitraire sous Windows) — crédité **rapporteur** : [GHSA-j2qc-j92x-qqhj](https://github.com/beeware/briefcase/security/advisories/GHSA-j2qc-j92x-qqhj) · sévérité **haute** · CVE en cours d'attribution

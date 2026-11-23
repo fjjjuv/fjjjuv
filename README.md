@@ -70,7 +70,7 @@
 
 ## 📐 PDF protocols for AI agents
 
-> Three open specifications for reliable AI-driven PDF editing — v1.0 · Apache-2.0 — implemented by [pdfbadger](https://github.com/fjjjuv/pdfbadger).
+> Three open specifications for reliable AI-driven PDF editing — v1.0 · Apache-2.0.
 
 <div align="center">
   <a href="https://github.com/fjjjuv/pdfsp">

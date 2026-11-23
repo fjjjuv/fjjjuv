@@ -70,7 +70,7 @@
 
 ## 📐 Protocoles PDF pour agents IA
 
-> Trois spécifications ouvertes pour l'édition PDF fiable par agents IA — v1.0 · Apache-2.0 — implémentées par [pdfbadger](https://github.com/fjjjuv/pdfbadger).
+> Trois spécifications ouvertes pour l'édition PDF fiable par agents IA — v1.0 · Apache-2.0.
 
 <div align="center">
   <a href="https://github.com/fjjjuv/pdfsp">

@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/fjjjuv?style=for-the-badge&color=00D1FF&logo=github&logoColor=white&label=FOLLOWERS&v=2026112319" alt="Followers" />
   </a>
   <a href="https://github.com/fjjjuv?tab=following">
-    <img src="https://img.shields.io/badge/FOLLOWING-fjjjuv-white?style=for-the-badge&logo=github&logoColor=00D1FF&v=2026112319" alt="Following" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffjjjuv&query=%24.following&style=for-the-badge&color=white&label=FOLLOWING&logo=github&logoColor=00D1FF&cacheSeconds=86400&v=2026112320" alt="Following" />
   </a>
   <a href="https://github.com/fjjjuv">
     <img src="https://komarev.com/ghpvc/?username=fjjjuv&style=for-the-badge&color=00D1FF&label=VIEWS&v=2026112319" alt="Views" />

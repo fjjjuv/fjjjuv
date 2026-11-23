@@ -73,9 +73,6 @@
 > Trois spécifications ouvertes pour l'édition PDF fiable par agents IA — v1.0 · Apache-2.0 — implémentées par [pdfbadger](https://github.com/fjjjuv/pdfbadger).
 
 <div align="center">
-  <a href="https://github.com/fjjjuv/pdfbadger">
-    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=fjjjuv&repo=pdfbadger&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2&v=20261123" alt="pdfbadger repo card" />
-  </a>
   <a href="https://github.com/fjjjuv/pdfsp">
     <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=fjjjuv&repo=pdfsp&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2&v=20261123" alt="pdfsp repo card" />
   </a>
